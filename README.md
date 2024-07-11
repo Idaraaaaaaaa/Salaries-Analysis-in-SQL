@@ -1,0 +1,1 @@
+# Salaries-Analysis-in-SQL
